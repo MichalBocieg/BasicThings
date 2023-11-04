@@ -1,0 +1,10 @@
+name: BasicThings
+version: '${project.version}'
+main: com.beton.basicthings.Main
+api-version: '1.20'
+author: Beton
+description: Podstawowe przydatne rzeczy
+commands:
+  nv:
+    permission: basic.nv
+    aliases: nightvision
