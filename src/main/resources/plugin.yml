@@ -8,3 +8,8 @@ commands:
   nv:
     permission: basic.nv
     aliases: nightvision
+  kwiatki:
+    permission: basic.kwiatki
+    aliases: [kwiatuszki, kwiaty]
+  nalesniki:
+    permission: basic.nalesniki

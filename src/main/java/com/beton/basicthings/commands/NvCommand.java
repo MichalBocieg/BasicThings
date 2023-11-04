@@ -1,4 +1,4 @@
-package com.beton.basicthings;
+package com.beton.basicthings.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
